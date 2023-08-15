@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 FullStack Developer
 -------------------
+  I'm a skilled software developer with experience in TypeScript and JavaScript, and expertise in frameworks like Angular, NestJs. I'm a quick learner and collaborate closely with clients to
+  create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
 
 * 🌍  I'm based in Tunsie
 * ✉️  You can contact me at [benhammdighassen@gmail.com](mailto:benhammdighassen@gmail.com)
